@@ -38,3 +38,6 @@ Pedestrian crosswalk signals are synchronized with the Red state, allowing safe 
 6. Diagram Interpretation
 The state diagram shows the progression from Red to Green to Yellow and back to Red.
 Arrows represent transitions based on timer expirations for each state, and each state displays its associated traffic action.
+![AuroeAshimwe drawio (1)](https://github.com/user-attachments/assets/924453e1-399c-423d-b2cf-2d2054312399)
+
+
